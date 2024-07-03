@@ -6,7 +6,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > I see the player you mean.
 >
-> Βλέπω τον παίκτη στον οποίον αναφέρεσαι.
+> Βλέπω τον παίκτη που εννοείς.
 
 > **SPEAKER 2:**
 >
