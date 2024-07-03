@@ -216,7 +216,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > Take a breath, now. Take another. Feel air in your lungs. Let your limbs return. Yes, move your fingers. Have a body again, under gravity, in air. Respawn in the long dream. There you are. Your body touching the universe again at every point, as though you were separate things. As though we were separate things.
 >
-> Πάρε μια ανάσα, τώρα. Πάρε μια άλλη. Αισθάνσου τον αέρα στους πνεύμονές σου. Άφησε τα άκρα σου να επιστρέψουν. Ναι, κούνησε τα δάκτυλά σου. Απόκτησε σώμα πάλι, υπό τη βαρύτητα, στον αέρα. Αναγεννήσου στο μακρύ όνειρο. Εκεί είσαι. Το σώμα σου αγγίζει το σύμπαν πάλι σε κάθε σημείο, σαν να ήσουν αποκομμένα πράγματα, σαν να ήμασταν αποκομμένα πράγματα.
+> Πάρε μια ανάσα, τώρα. Πάρε μια άλλη. Αισθάνσου τον αέρα στους πνεύμονές σου. Άφησε τα άκρα σου να επιστρέψουν. Ναι, κούνησε τα δάκτυλά σου. Απόκτησε σώμα πάλι, υπό τη βαρύτητα, στον αέρα. Αναγεννήσου στο μακρύ όνειρο. Εκεί είσαι. Το σώμα σου αγγίζει το σύμπαν πάλι σε κάθε σημείο, σαν να ήσουν αποκομμένα πράγματα. Σαν να ήμασταν αποκομμένα πράγματα.
 
 > **SPEAKER 1:**
 >
