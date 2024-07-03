@@ -1,5 +1,7 @@
 # A Greek Translation of Minecraft's End Poem
 
+The following is Julian Gough's End Poem, which appears in the credit sequence of Minecraft, translated to Greek. Despite being rendered into multiple languages, the poem is not available to the game's localization project on Crowdin. Hence, I am providing my translation here, with a side-by-side comparison for each segment.
+
 > **SPEAKER 1:**
 >
 > I see the player you mean.
@@ -52,7 +54,7 @@
 >
 > They used to hear voices. Before players could read. Back in the days when those who did not play called the players witches, and warlocks. And players dreamed they flew through the air, on sticks powered by demons.
 >
-> Άκουγαν φωνές. Πριν οι παίκτες μπορούσαν να διαβάσουν. Στις ημέρες όταν αυτοί που δεν έπαιζαν αποκαλούσαν τους παίκτες μάγισσες, και μάγους. Και οι παίκες ονειρέυονταν ότι πετούσαν στον αέρα, σε ξύλα που έλεγχαν δαίμονες.
+> Άκουγαν φωνές. Πριν οι παίκτες μπορούσαν να διαβάσουν. Τις ημέρες όταν αυτοί που δεν έπαιζαν αποκαλούσαν τους παίκτες μάγισσες, και μάγους. Και οι παίκες ονειρέυονταν ότι πετούσαν στον αέρα, σε ξύλα που έλεγχαν δαίμονες.
 
 > **SPEAKER 2:**
 >
