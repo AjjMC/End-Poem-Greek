@@ -1,6 +1,6 @@
 # A Greek Translation of Minecraft's End Poem
 
-The following is Julian Gough's End Poem, which appears in the credit sequence of Minecraft, translated in Greek. Despite being rendered into multiple languages, the poem is not available in the game's localization project on Crowdin. Hence, I am providing my translation here, with a side-by-side comparison for each segment.
+The following is Julian Gough's End Poem, which appears in the credit sequence of Minecraft, translated in Greek. Despite having been rendered into multiple languages, the poem is not available in the game's localization project on Crowdin, and therefore in-game. Hence, I am providing my translation here, with a side-by-side comparison with the original text for each segment.
 
 > **SPEAKER 1:**
 >
