@@ -150,7 +150,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > Too strong for this dream. To tell them how to live is to prevent them living.
 >
-> Πολύ δυνατός για αυτό το όνειρο. Το να τους πω πώς να ζουν είναι να τους αποτρέψω από το να ζούν.
+> Πολύ δυνατός για αυτό το όνειρο. Το να τους πεις πώς να ζουν είναι να τους αποτρέψεις από το να ζούν.
 
 > **SPEAKER 2:**
 >
