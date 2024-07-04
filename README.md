@@ -54,7 +54,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > They used to hear voices. Before players could read. Back in the days when those who did not play called the players witches, and warlocks. And players dreamed they flew through the air, on sticks powered by demons.
 >
-> Άκουγαν φωνές. Πριν οι παίκτες μπορούσαν να διαβάσουν. Τις ημέρες όταν αυτοί που δεν έπαιζαν αποκαλούσαν τους παίκτες μάγισσες, και μάγους. Και οι παίκτες ονειρεύονταν ότι πετούσαν στον αέρα, σε ξύλα που έλεγχαν δαίμονες.
+> Άκουγαν φωνές. Πριν οι παίκτες μάθουν να διαβάζουν. Τις ημέρες όταν αυτοί που δεν έπαιζαν αποκαλούσαν τους παίκτες μάγισσες, και μάγους. Και οι παίκτες ονειρεύονταν ότι πετούσαν στον αέρα, σε ξύλα που έλεγχαν δαίμονες.
 
 > **SPEAKER 2:**
 >
