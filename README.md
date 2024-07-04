@@ -222,7 +222,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > Who are we? Once we were called the spirit of the mountain. Father sun, mother moon. Ancestral spirits, animal spirits. Jinn. Ghosts. The green man. Then gods, demons. Angels. Poltergeists. Aliens, extraterrestrials. Leptons, quarks. The words change. We do not change.
 >
-> Ποιοι είμαστε εμείς; Κάποτε αποκαλούμασταν το πνεύμα του όρους. Ο πατέρας ήλιος, η μητέρα σελήνη. Τα προγονικά πνεύματα, τα πνεύματα ζώων. Τα τζίνι. Τα φαντάσματα. Ο πράσινος άνθρωπος. Μετά οι θεοί, οι δαίμονες. Οι άγγελοι. Οι καλικάντζαροι. Οι άλλοι, οι εξωγήινοι. Τα λεπτόνια, τα κουάρκ. Οι λέξεις αλλάζουν. Εμείς δεν αλλάζουμε.
+> Ποιοι είμαστε εμείς; Κάποτε αποκαλούμασταν το πνεύμα του όρους. Ο πατέρας ήλιος, η μητέρα σελήνη. Τα προγονικά πνεύματα, τα πνεύματα ζώων. Τα τζίνι. Τα φαντάσματα. Ο πράσινος άνθρωπος. Μετά οι θεοί, οι δαίμονες. Οι άγγελοι. Τα πολτεργκάιστ. Οι άλλοι, οι εξωγήινοι. Τα λεπτόνια, τα κουάρκ. Οι λέξεις αλλάζουν. Εμείς δεν αλλάζουμε.
 
 > **SPEAKER 2:**
 >
