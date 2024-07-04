@@ -108,7 +108,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > But there are times it is sad, in the long dream. It creates worlds that have no summer, and it shivers under a black sun, and it takes its sad creation for reality.
 >
-> Αλλά υπάρχουν φορές πού είναι θλιμμένος, στο μακρύ όνειρο. Δημιουργεί κόσμους που δεν έχουν καλοκαίρι, και τρέμει κάτω από έναν μαύρο ήλιο, και λαμβάνει το θλιβερό του δημιούργημα ως πραγματικότητα.
+> Αλλά υπάρχουν φορές που είναι θλιμμένος, στο μακρύ όνειρο. Δημιουργεί κόσμους που δεν έχουν καλοκαίρι, και τρέμει κάτω από έναν μαύρο ήλιο, και λαμβάνει το θλιβερό του δημιούργημα ως πραγματικότητα.
 
 > **SPEAKER 1:**
 >
@@ -353,7 +353,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > and sometimes the player believed the universe had spoken to it through the sunlight that came through the shuffling leaves of the summer trees
 >
-> και μερικές φορές ο παίκτης πίστευε ότι το σύμπαν του είχε μιλήσει μέσω του φωτός του ήλιου πού ερχόταν μέσα από τα ανακατεμένα φύλλα των θερινών δέντρων
+> και μερικές φορές ο παίκτης πίστευε ότι το σύμπαν του είχε μιλήσει μέσω του φωτός του ήλιου που ερχόταν μέσα από το θρόισμα των φύλλων των θερινών δέντρων
 
 > **SPEAKER 1:**
 >
