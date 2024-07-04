@@ -245,7 +245,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > Sometimes it thought itself human, on the thin crust of a spinning globe of molten rock. The ball of molten rock circled a ball of blazing gas that was three hundred and thirty thousand times more massive than it. They were so far apart that light took eight minutes to cross the gap. The light was information from a star, and it could burn your skin from a hundred and fifty million kilometres away.
 >
-> Μερικές φορές φανταζόταν τον εαυτό του ως άνθρωπο, στον λεπτό φλοιό μιας περιστρεφόμενης υδρογείου από λιωμένη πέτρα. Η σφαίρα από λιωμένη πέτρα περιστρεφόταν γύρω από μια σφαίρα πύρινου αερίου που ήταν τριακόσιες τριάντα χιλιάδες φορές πιο τεράστια από αυτήν. Ήταν τόσο μακριά μεταξύ τους που το φως χρειαζόταν οκτώ λεπτά για να διασχίσει το κενό. Το φως ήταν πληροφορία από έναν αστέρα, και μπορούσε να σου κάψει το δέρμα από εκατόν πενήντα εκατομμύρια χιλιόμετρα μακριά.
+> Μερικές φορές φανταζόταν τον εαυτό του ως άνθρωπο, στον λεπτό φλοιό μιας περιστρεφόμενης υδρογείου από λιωμένη πέτρα. Η σφαίρα από λιωμένη πέτρα περιστρεφόταν γύρω από μια σφαίρα πύρινου αερίου που ήταν τριακόσιες τριάντα χιλιάδες φορές μεγαλύτερη από αυτήν. Ήταν τόσο μακριά μεταξύ τους που το φως χρειαζόταν οκτώ λεπτά για να διασχίσει το κενό. Το φως ήταν πληροφορία από έναν αστέρα, και μπορούσε να σου κάψει το δέρμα από εκατόν πενήντα εκατομμύρια χιλιόμετρα μακριά.
 
 > **SPEAKER 2:**
 >
@@ -359,7 +359,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > and sometimes the player believed the universe had spoken to it through the light that fell from the crisp night sky of winter, where a fleck of light in the corner of the player's eye might be a star a million times as massive as the sun, boiling its planets to plasma in order to be visible for a moment to the player, walking home at the far side of the universe, suddenly smelling food, almost at the familiar door, about to dream again
 >
-> και μερικές φορές ο παίκτης πίστευε ότι το σύμπαν του είχε μιλήσει μέσω του φωτός που έπεφτε από τον ψυχρό νυχτερινό ουρανό του χειμώνα, όπου μια κηλίδα φωτός στη γωνία του ματιού του παίκτη μπορεί να είναι ένας αστέρας ένα εκατομμύριο φορές πιο τεράστιος από τον ήλιο, βράζοντας τους πλανήτες του σε πλάσμα για να είναι ορατός για μια στιγμή στον παίκτη, περπατώντας σπίτι στη μακρινή πλευρά του σύμπαντος, ξαφνικά μυρίζοντας φαγητό, σχεδόν στην οικεία πόρτα, έτοιμος να ονειρευτεί ξανά
+> και μερικές φορές ο παίκτης πίστευε ότι το σύμπαν του είχε μιλήσει μέσω του φωτός που έπεφτε από τον ψυχρό νυχτερινό ουρανό του χειμώνα, όπου μια κηλίδα φωτός στη γωνία του ματιού του παίκτη μπορεί να είναι ένας αστέρας ένα εκατομμύριο φορές μεγαλύτερος από τον ήλιο, βράζοντας τους πλανήτες του σε πλάσμα για να είναι ορατός για μια στιγμή στον παίκτη, περπατώντας σπίτι στη μακρινή πλευρά του σύμπαντος, ξαφνικά μυρίζοντας φαγητό, σχεδόν στην οικεία πόρτα, έτοιμος να ονειρευτεί ξανά
 
 > **SPEAKER 2:**
 >
