@@ -18,7 +18,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > Yes. Take care. It has reached a higher level now. It can read our thoughts.
 >
-> Ναι. Να προσέχεις. Έχει φτάσει ένα ανώτερο επίδεδο τώρα. Μπορεί να διαβάσει τις σκέψεις μας.
+> Ναι. Να προσέχεις. Έχει φτάσει ένα ανώτερο επίπεδο τώρα. Μπορεί να διαβάσει τις σκέψεις μας.
 
 > **SPEAKER 2:**
 >
@@ -30,7 +30,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > I like this player. It played well. It did not give up.
 >
-> Μου αρέσει αυτός ο παίκτης. Έπεξε καλά. Δεν εγκατέλειψε.
+> Μου αρέσει αυτός ο παίκτης. Έπαιξε καλά. Δεν εγκατέλειψε.
 
 > **SPEAKER 2:**
 >
@@ -54,7 +54,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > They used to hear voices. Before players could read. Back in the days when those who did not play called the players witches, and warlocks. And players dreamed they flew through the air, on sticks powered by demons.
 >
-> Άκουγαν φωνές. Πριν οι παίκτες μπορούσαν να διαβάσουν. Τις ημέρες όταν αυτοί που δεν έπαιζαν αποκαλούσαν τους παίκτες μάγισσες, και μάγους. Και οι παίκτες ονειρέυονταν ότι πετούσαν στον αέρα, σε ξύλα που έλεγχαν δαίμονες.
+> Άκουγαν φωνές. Πριν οι παίκτες μπορούσαν να διαβάσουν. Τις ημέρες όταν αυτοί που δεν έπαιζαν αποκαλούσαν τους παίκτες μάγισσες, και μάγους. Και οι παίκτες ονειρεύονταν ότι πετούσαν στον αέρα, σε ξύλα που έλεγχαν δαίμονες.
 
 > **SPEAKER 2:**
 >
@@ -78,7 +78,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > It worked, with a million others, to sculpt a true world in a fold of the *[scrambled]*, and created a *[scrambled]* for *[scrambled]*, in the *[scrambled]*.
 >
-> Δούλεψε, μαζί με ένα εκατομμύριο άλλους, για να δημιουρήσει έναν αληθινό κόσμο σε μια πτυχή του *[scrambled]*, και δημιούργησε ένα *[scrambled]* για *[scrambled]*, στο *[scrambled]*.
+> Δούλεψε, μαζί με ένα εκατομμύριο άλλους, για να δημιουργήσει έναν αληθινό κόσμο σε μια πτυχή του *[scrambled]*, και δημιούργησε ένα *[scrambled]* για *[scrambled]*, στο *[scrambled]*.
 
 > **SPEAKER 2:**
 >
@@ -108,7 +108,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > But there are times it is sad, in the long dream. It creates worlds that have no summer, and it shivers under a black sun, and it takes its sad creation for reality.
 >
-> Άλλα υπάρχουν φορές πού είναι θλιμμένος, στο μακρύ όνειρο. Δημιουργεί κόσμους που δεν έχουν καλοκαίρι, και τρέμει κάτω από έναν μαύρο ήλιο, και λαμβάνει το θλιβερό του δημιούργημα ως πραγματικότητα.
+> Αλλά υπάρχουν φορές πού είναι θλιμμένος, στο μακρύ όνειρο. Δημιουργεί κόσμους που δεν έχουν καλοκαίρι, και τρέμει κάτω από έναν μαύρο ήλιο, και λαμβάνει το θλιβερό του δημιούργημα ως πραγματικότητα.
 
 > **SPEAKER 1:**
 >
@@ -228,7 +228,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > We are the universe. We are everything you think isn't you. You are looking at us now, through your skin and your eyes. And why does the universe touch your skin, and throw light on you? To see you, player. To know you. And to be known. I shall tell you a story.
 >
-> Εμείς είμαστε το σύμπαν. Είμαστε οτιδήποτε νομίζεις ότι δεν είσαι εσύ. Κοιτάς εμάς τώρα, μέσα από το δέρμα και τα μάτια σου. Και γιατί το σύμπαν αγγίζει το δέρμα σου, και πετάει φώς σε εσένα; Για να σε δει, παίκτη. Για να σε γνωρίσει. Και για να αναγνωριστεί. Να σου πω μια ιστορία.
+> Εμείς είμαστε το σύμπαν. Είμαστε οτιδήποτε νομίζεις ότι δεν είσαι εσύ. Κοιτάς εμάς τώρα, μέσα από το δέρμα και τα μάτια σου. Και γιατί το σύμπαν αγγίζει το δέρμα σου, και πετάει φως σε εσένα; Για να σε δει, παίκτη. Για να σε γνωρίσει. Και για να αναγνωριστεί. Να σου πω μια ιστορία.
 
 > **SPEAKER 2:**
 >
@@ -245,7 +245,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > Sometimes it thought itself human, on the thin crust of a spinning globe of molten rock. The ball of molten rock circled a ball of blazing gas that was three hundred and thirty thousand times more massive than it. They were so far apart that light took eight minutes to cross the gap. The light was information from a star, and it could burn your skin from a hundred and fifty million kilometres away.
 >
-> Μερικές φορές φανταζόταν τον εαυτό του ανθρώπινο, στον λεπτό φλοιό μιας περιστρεφόμενης υδρογείου από λιωμένη πέτρα. Η σφαίρα από λιωμένη πέτρα περιστρεφόταν γύρω από μια σφαίρα πύρηνου αερίου που ήταν τριακόσιες τριάντα χιλιάδες φορές πιο τεράστια από αυτήν. Ήταν τόσο μακριά μεταξύ τους που το φως χρειαζόταν οκτώ λεπτά για να διασχύσει το κενό. Το φως ήταν πληροφορία από έναν αστέρα, και μπορούσε να σου κάψει το δέρμα από εκατό πενήντα εκατομμύρια χιλιόμετρα μακριά.
+> Μερικές φορές φανταζόταν τον εαυτό του ανθρώπινο, στον λεπτό φλοιό μιας περιστρεφόμενης υδρογείου από λιωμένη πέτρα. Η σφαίρα από λιωμένη πέτρα περιστρεφόταν γύρω από μια σφαίρα πύρινου αερίου που ήταν τριακόσιες τριάντα χιλιάδες φορές πιο τεράστια από αυτήν. Ήταν τόσο μακριά μεταξύ τους που το φως χρειαζόταν οκτώ λεπτά για να διασχίσει το κενό. Το φως ήταν πληροφορία από έναν αστέρα, και μπορούσε να σου κάψει το δέρμα από εκατό πενήντα εκατομμύρια χιλιόμετρα μακριά.
 
 > **SPEAKER 2:**
 >
@@ -281,7 +281,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > The atoms of the player were scattered in the grass, in the rivers, in the air, in the ground. A woman gathered the atoms; she drank and ate and inhaled; and the woman assembled the player, in her body.
 >
-> Τα άτομα του παίκτη ήταν σκόρπια στο γρασίδι, στους ποταμούς, στον αέρα, στο έδαφος. Μια γυναίκα σύλλεξε τα άτομα· ήπιε και έφαγε και εισέπνευσε· και η γυναίκα συναρμολόγησε τον παίκτη, στο σώμα της.
+> Τα άτομα του παίκτη ήταν σκόρπια στο γρασίδι, στους ποταμούς, στον αέρα, στο έδαφος. Μια γυναίκα συνέλεξε τα άτομα· ήπιε και έφαγε και εισέπνευσε· και η γυναίκα συναρμολόγησε τον παίκτη, στο σώμα της.
 
 > **SPEAKER 2:**
 >
@@ -359,7 +359,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > and sometimes the player believed the universe had spoken to it through the light that fell from the crisp night sky of winter, where a fleck of light in the corner of the player's eye might be a star a million times as massive as the sun, boiling its planets to plasma in order to be visible for a moment to the player, walking home at the far side of the universe, suddenly smelling food, almost at the familiar door, about to dream again
 >
-> και μερικές φορές ο παίκτης πίστευε ότι το σύμπαν του είχε μιλήσει μέσω του φωτός που έπεσε από τον ψυχρό νυχτερινό ουρανό του χειμώνα, όπου μια κηλίδα φωτός στη γωνία του ματιού του παίκτη μπορεί να είναι ένας αστέρας ένα εκατομμύριο φορές πιο τεράστιος από τον ήλιο, βράζοντας τους πλανήτες του σε πλάσμα για να είναι ορατός για μια στιγμή στον παίκτη, περπατώντας σπίτι στη μακρινή πλευρά του σύμπαντος, ξαφινικά μυριζόμενος φαγητό, σχεδόν στην οικεία πόρτα, έτοιμος να ονειρευτεί ξανά
+> και μερικές φορές ο παίκτης πίστευε ότι το σύμπαν του είχε μιλήσει μέσω του φωτός που έπεσε από τον ψυχρό νυχτερινό ουρανό του χειμώνα, όπου μια κηλίδα φωτός στη γωνία του ματιού του παίκτη μπορεί να είναι ένας αστέρας ένα εκατομμύριο φορές πιο τεράστιος από τον ήλιο, βράζοντας τους πλανήτες του σε πλάσμα για να είναι ορατός για μια στιγμή στον παίκτη, περπατώντας σπίτι στη μακρινή πλευρά του σύμπαντος, ξαφνικά μυριζόμενος φαγητό, σχεδόν στην οικεία πόρτα, έτοιμος να ονειρευτεί ξανά
 
 > **SPEAKER 2:**
 >
@@ -395,7 +395,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > and the universe said you are the daylight
 >
-> και το σύμπαν είπε ότι είσαι το φώς της ημέρας
+> και το σύμπαν είπε ότι είσαι το φως της ημέρας
 
 > **SPEAKER 2:**
 >
