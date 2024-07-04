@@ -132,7 +132,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > Sometimes I do not care. Sometimes I wish to tell them, this world you take for truth is merely *[scrambled]* and *[scrambled]*, I wish to tell them that they are *[scrambled]* in the *[scrambled]*. They see so little of reality, in their long dream.
 >
-> Μερικές φορές δε με ενδιαφέρει. Μερικές φορές επιθυμώ να τους πω, αυτός ο κόσμος που λαμβάνεις ως αλήθεια είναι μόνο *[scrambled]* και *[scrambled]*, επιθυμώ να τους πω ότι είναι *[scrambled]* στο *[scrambled]*. Βλέπουν τόσο λίγο από την πραγματικότητα, στο μακρύ τους όνειρο.
+> Μερικές φορές δε με ενδιαφέρει. Μερικές φορές επιθυμώ να τους πω, ότι αυτός ο κόσμος που λαμβάνεις ως αλήθεια είναι μόνο *[scrambled]* και *[scrambled]*, επιθυμώ να τους πω ότι είναι *[scrambled]* στο *[scrambled]*. Βλέπουν τόσο λίγο από την πραγματικότητα, στο μακρύ τους όνειρο.
 
 > **SPEAKER 1:**
 >
