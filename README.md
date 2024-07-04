@@ -78,7 +78,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > It worked, with a million others, to sculpt a true world in a fold of the *[scrambled]*, and created a *[scrambled]* for *[scrambled]*, in the *[scrambled]*.
 >
-> Δούλεψε, μαζί με ένα εκατομμύριο άλλους, για να δημιουργήσει έναν αληθινό κόσμο σε μια πτυχή του *[scrambled]*, και δημιούργησε ένα *[scrambled]* για *[scrambled]*, στο *[scrambled]*.
+> Δούλεψε, με ένα εκατομμύριο άλλους, για να δημιουργήσει έναν αληθινό κόσμο σε μια πτυχή του *[scrambled]*, και δημιούργησε ένα *[scrambled]* για *[scrambled]*, στο *[scrambled]*.
 
 > **SPEAKER 2:**
 >
