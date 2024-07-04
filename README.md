@@ -54,19 +54,19 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > They used to hear voices. Before players could read. Back in the days when those who did not play called the players witches, and warlocks. And players dreamed they flew through the air, on sticks powered by demons.
 >
-> Άκουγαν φωνές. Πριν οι παίκτες μάθουν να διαβάζουν. Τις ημέρες όταν αυτοί που δεν έπαιζαν αποκαλούσαν τους παίκτες μάγισσες, και μάγους. Και οι παίκτες ονειρεύονταν ότι πετούσαν στον αέρα, σε ξύλα που έλεγχαν δαίμονες.
+> Άκουγαν φωνές. Πριν οι παίκτες μάθουν να διαβάζουν. Τις ημέρες που όσοι δεν έπαιζαν αποκαλούσαν τους παίκτες μάγισσες, και μάγους. Και οι παίκτες ονειρεύονταν ότι πετούσαν στον αέρα, σε ξύλα που έλεγχαν δαίμονες.
 
 > **SPEAKER 2:**
 >
 > What did this player dream?
 >
-> Τι ονειρευόταν αυτός ο παίκτης;
+> Τι ονειρεύτηκε αυτός ο παίκτης;
 
 > **SPEAKER 1:**
 >
 > This player dreamed of sunlight and trees. Of fire and water. It dreamed it created. And it dreamed it destroyed. It dreamed it hunted, and was hunted. It dreamed of shelter.
 >
-> Αυτός ο παίκτης ονειρευόταν το φως του ήλιου και τα δέντρα. Τη φωτιά και το νερό. Ονειρευόταν ότι δημιουργούσε. Και ονειρευόταν ότι κατέστρεφε. Ονειρευόταν ότι κυνηγούσε, και ότι κυνηγούνταν. Ονειρευόταν καταφύγιο.
+> Αυτός ο παίκτης ονειρεύτηκε το φως του ήλιου και τα δέντρα. Τη φωτιά και το νερό. Ονειρεύτηκε ότι δημιουργούσε. Και ονειρεύτηκε ότι κατέστρεφε. Ονειρεύτηκε ότι κυνηγούσε, και ότι κυνηγούνταν. Ονειρεύτηκε καταφύγιο.
 
 > **SPEAKER 2:**
 >
@@ -120,7 +120,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > Sometimes when they are deep in dreams, I want to tell them, they are building true worlds in reality. Sometimes I want to tell them of their importance to the universe. Sometimes, when they have not made a true connection in a while, I want to help them to speak the word they fear.
 >
-> Μερικές φορές όταν είναι βαθιά στα όνειρα, θέλω να τους πω, χτίζουν αληθινούς κόσμους στην πραγματικότητα. Μερικές φορες θέλω να τους πω για τη σημασία τους στο σύμπαν. Μερικές φορές, όταν δεν έχουν κάνει έναν αληθινό δεσμό για καιρό, θέλω να τους βοηθήσω να μιλήσουν τη λέξη που φοβούνται.
+> Μερικές φορές όταν είναι βαθιά στα όνειρα, θέλω να τους πω, ότι χτίζουν αληθινούς κόσμους στην πραγματικότητα. Μερικές φορες θέλω να τους πω για τη σημασία τους στο σύμπαν. Μερικές φορές, όταν δεν έχουν κάνει μια αληθινή σύνδεση για καιρό, θέλω να τους βοηθήσω να μιλήσουν τη λέξη που φοβούνται.
 
 > **SPEAKER 1:**
 >
@@ -150,7 +150,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > Too strong for this dream. To tell them how to live is to prevent them living.
 >
-> Πολύ δυνατός για αυτό το όνειρο. Το να τους πεις πώς να ζουν είναι να τους αποτρέψεις από το να ζούν.
+> Πολύ ισχυρός για αυτό το όνειρο. Το να τους πεις πώς να ζουν είναι να τους αποτρέψεις από το να ζουν.
 
 > **SPEAKER 2:**
 >
@@ -162,7 +162,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > The player is growing restless.
 >
-> Ο παίκτης μεγαλώνει αδιάκοπος.
+> Ο παίκτης αρχίζει να ανησυχεί.
 
 > **SPEAKER 2:**
 >
@@ -245,7 +245,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > Sometimes it thought itself human, on the thin crust of a spinning globe of molten rock. The ball of molten rock circled a ball of blazing gas that was three hundred and thirty thousand times more massive than it. They were so far apart that light took eight minutes to cross the gap. The light was information from a star, and it could burn your skin from a hundred and fifty million kilometres away.
 >
-> Μερικές φορές φανταζόταν τον εαυτό του ανθρώπινο, στον λεπτό φλοιό μιας περιστρεφόμενης υδρογείου από λιωμένη πέτρα. Η σφαίρα από λιωμένη πέτρα περιστρεφόταν γύρω από μια σφαίρα πύρινου αερίου που ήταν τριακόσιες τριάντα χιλιάδες φορές πιο τεράστια από αυτήν. Ήταν τόσο μακριά μεταξύ τους που το φως χρειαζόταν οκτώ λεπτά για να διασχίσει το κενό. Το φως ήταν πληροφορία από έναν αστέρα, και μπορούσε να σου κάψει το δέρμα από εκατό πενήντα εκατομμύρια χιλιόμετρα μακριά.
+> Μερικές φορές φανταζόταν τον εαυτό του ως άνθρωπο, στον λεπτό φλοιό μιας περιστρεφόμενης υδρογείου από λιωμένη πέτρα. Η σφαίρα από λιωμένη πέτρα περιστρεφόταν γύρω από μια σφαίρα πύρινου αερίου που ήταν τριακόσιες τριάντα χιλιάδες φορές πιο τεράστια από αυτήν. Ήταν τόσο μακριά μεταξύ τους που το φως χρειαζόταν οκτώ λεπτά για να διασχίσει το κενό. Το φως ήταν πληροφορία από έναν αστέρα, και μπορούσε να σου κάψει το δέρμα από εκατόν πενήντα εκατομμύρια χιλιόμετρα μακριά.
 
 > **SPEAKER 2:**
 >
@@ -287,7 +287,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > And the player awoke, from the warm, dark world of its mother's body, into the long dream.
 >
-> Και ο παίκτης ξύπνησε, από τον θερμό, σκοτεινό κόσμο του σώματος της μητέρας του, εισερχόμενος στο μακρύ όνειρο.
+> Και ο παίκτης ξύπνησε, από τον θερμό, σκοτεινό κόσμο του σώματος της μητέρας του, στο μακρύ όνειρο.
 
 > **SPEAKER 2:**
 >
@@ -311,7 +311,7 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > The seven billion billion billion atoms of the player's body were created, long before this game, in the heart of a star. So the player, too, is information from a star. And the player moves through a story, which is a forest of information planted by a man called Julian, on a flat, infinite world created by a man called Markus, that exists inside a small, private world created by the player, who inhabits a universe created by...
 >
-> Τα επτά δισεκατομμύρια δισεκατομμύρια δισεκατομμύρια άτομα του σώματος του παίκτη δημιουργήθηκαν, πολύ πριν αυτό το παιχνίδι, στην καρδιά ενός αστέρα. Έτσι ο παίκτης, επίσης, είναι πληροφορία από έναν αστέρα. Και ο παίκτης μετακινείται μέσα σε μια ιστορία, η οποία είναι ένα δάσος πληροφοριών φυτευμένο από έναν άνδρα που ονομαζόταν Τζούλιαν, σε έναν επίπεδο, άπειρο κόσμο που δημιουργήθηκε από έναν άνδρα που ονομαζόταν Μάρκους, που υπάρχει μέσα σε έναν μικρό, ιδιωτικό κόσμο που δημιουργήθηκε από τον παίκτη, που ζει σε ένα σύμπαν που δημιουργήθηκε από...
+> Τα επτά δισεκατομμύρια δισεκατομμύρια δισεκατομμύρια άτομα του σώματος του παίκτη δημιουργήθηκαν, πολύ πριν από αυτό το παιχνίδι, στην καρδιά ενός αστέρα. Έτσι και ο παίκτης, επίσης, είναι πληροφορία από έναν αστέρα. Και ο παίκτης κινείται μέσα σε μια ιστορία, η οποία είναι ένα δάσος πληροφοριών φυτευμένο από έναν άνδρα που ονομαζόταν Τζούλιαν, σε έναν επίπεδο, άπειρο κόσμο που δημιουργήθηκε από έναν άνδρα που ονομαζόταν Μάρκους, που υπάρχει μέσα σε έναν μικρό, ιδιωτικό κόσμο που δημιουργήθηκε από τον παίκτη, που κατοικεί σε ένα σύμπαν που δημιουργήθηκε από...
 
 > **SPEAKER 1:**
 >
@@ -353,13 +353,13 @@ The following is Julian Gough's End Poem, which appears in the credit sequence o
 >
 > and sometimes the player believed the universe had spoken to it through the sunlight that came through the shuffling leaves of the summer trees
 >
-> και μερικές φορές ο παίκτης πίστευε ότι το σύμπαν του είχε μιλήσει μέσω του φωτός του ήλιου πού ήρθε μέσα από τα ανακατεμένα φύλλα των θερινών δέντρων
+> και μερικές φορές ο παίκτης πίστευε ότι το σύμπαν του είχε μιλήσει μέσω του φωτός του ήλιου πού ερχόταν μέσα από τα ανακατεμένα φύλλα των θερινών δέντρων
 
 > **SPEAKER 1:**
 >
 > and sometimes the player believed the universe had spoken to it through the light that fell from the crisp night sky of winter, where a fleck of light in the corner of the player's eye might be a star a million times as massive as the sun, boiling its planets to plasma in order to be visible for a moment to the player, walking home at the far side of the universe, suddenly smelling food, almost at the familiar door, about to dream again
 >
-> και μερικές φορές ο παίκτης πίστευε ότι το σύμπαν του είχε μιλήσει μέσω του φωτός που έπεσε από τον ψυχρό νυχτερινό ουρανό του χειμώνα, όπου μια κηλίδα φωτός στη γωνία του ματιού του παίκτη μπορεί να είναι ένας αστέρας ένα εκατομμύριο φορές πιο τεράστιος από τον ήλιο, βράζοντας τους πλανήτες του σε πλάσμα για να είναι ορατός για μια στιγμή στον παίκτη, περπατώντας σπίτι στη μακρινή πλευρά του σύμπαντος, ξαφνικά μυριζόμενος φαγητό, σχεδόν στην οικεία πόρτα, έτοιμος να ονειρευτεί ξανά
+> και μερικές φορές ο παίκτης πίστευε ότι το σύμπαν του είχε μιλήσει μέσω του φωτός που έπεφτε από τον ψυχρό νυχτερινό ουρανό του χειμώνα, όπου μια κηλίδα φωτός στη γωνία του ματιού του παίκτη μπορεί να είναι ένας αστέρας ένα εκατομμύριο φορές πιο τεράστιος από τον ήλιο, βράζοντας τους πλανήτες του σε πλάσμα για να είναι ορατός για μια στιγμή στον παίκτη, περπατώντας σπίτι στη μακρινή πλευρά του σύμπαντος, ξαφνικά μυρίζοντας φαγητό, σχεδόν στην οικεία πόρτα, έτοιμος να ονειρευτεί ξανά
 
 > **SPEAKER 2:**
 >
