@@ -192,7 +192,7 @@ The following is my Greek translation of Julian Gough's End Poem, which appears 
 >
 > Yes. Player...
 >
-> Ναι. Παίκτης...
+> Ναι. Παίκτη...
 
 > **SPEAKER 1:**
 >
@@ -204,7 +204,7 @@ The following is my Greek translation of Julian Gough's End Poem, which appears 
 >
 > *PLAYERNAME*. Player of games.
 >
-> *PLAYERNAME*. Παίκτης των παιχνιδιών.
+> *PLAYERNAME*. Παίκτη των παιχνιδιών.
 
 > **SPEAKER 1:**
 >
