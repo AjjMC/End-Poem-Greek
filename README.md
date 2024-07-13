@@ -150,7 +150,7 @@ The following is my Greek translation of Julian Gough's End Poem, which appears 
 >
 > Too strong for this dream. To tell them how to live is to prevent them living.
 >
-> Πολύ ισχυρός για αυτό το όνειρο. Το να τους πεις πώς να ζουν είναι να τους αποτρέψεις από το να ζουν.
+> Πολύ ισχυροί για αυτό το όνειρο. Το να τους πεις πώς να ζουν είναι να τους αποτρέψεις από το να ζουν.
 
 > **SPEAKER 2:**
 >
