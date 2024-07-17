@@ -180,7 +180,7 @@ The following is my Greek translation of Julian Gough's End Poem, which appears 
 >
 > No. A story that contains the truth safely, in a cage of words. Not the naked truth that can burn over any distance.
 >
-> Όχι. Μια ιστορία που περιέχει την αλήθεια ασφαλή, σε ένα κλουβί λέξεων. Όχι τη γυμνή αλήθεια που μπορεί να εξατμιστεί από οποιαδήποτε απόσταση.
+> Όχι. Μια ιστορία που περιέχει την αλήθεια ασφαλή, σε ένα κλουβί λέξεων. Όχι τη γυμνή αλήθεια που μπορεί να κάψει από οποιαδήποτε απόσταση.
 
 > **SPEAKER 1:**
 >
@@ -216,7 +216,7 @@ The following is my Greek translation of Julian Gough's End Poem, which appears 
 >
 > Take a breath, now. Take another. Feel air in your lungs. Let your limbs return. Yes, move your fingers. Have a body again, under gravity, in air. Respawn in the long dream. There you are. Your body touching the universe again at every point, as though you were separate things. As though we were separate things.
 >
-> Πάρε μια ανάσα, τώρα. Πάρε μια άλλη. Αισθάνσου τον αέρα στους πνεύμονές σου. Άφησε τα άκρα σου να επιστρέψουν. Ναι, κούνησε τα δάκτυλά σου. Απόκτησε σώμα πάλι, υπό τη βαρύτητα, στον αέρα. Αναγεννήσου στο μακρύ όνειρο. Εκεί είσαι. Το σώμα σου αγγίζει το σύμπαν πάλι σε κάθε σημείο, σαν να ήσουν αποκομμένα πράγματα. Σαν να ήμασταν αποκομμένα πράγματα.
+> Πάρε μια ανάσα, τώρα. Πάρε μια άλλη. Αισθάνσου τον αέρα στους πνεύμονές σου. Άφησε τα άκρα σου να επιστρέψουν. Ναι, κούνησε τα δάκτυλά σου. Απόκτησε σώμα ξανά, υπό τη βαρύτητα, στον αέρα. Αναγεννήσου στο μακρύ όνειρο. Εκεί είσαι. Το σώμα σου αγγίζει το σύμπαν ξανά σε κάθε σημείο, σαν να ήσουν αποκομμένα πράγματα. Σαν να ήμασταν αποκομμένα πράγματα.
 
 > **SPEAKER 1:**
 >
