@@ -237,6 +237,7 @@ The following is my Greek translation of Julian Gough's End Poem, which appears 
 > Μια φορά και έναν καιρό, ήταν ένας παίκτης.
 
 > **SPEAKER 1:**
+>
 > The player was you, *PLAYERNAME*.
 >
 > Αυτός ο παίκτης ήσουν εσύ, *PLAYERNAME*.
